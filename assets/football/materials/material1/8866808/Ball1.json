@@ -1,0 +1,17 @@
+{
+    "ambient": [0.588, 0.588, 0.588],
+    "blendType": 3,
+    "bumpMapFactor": 1,
+    "cubeMapProjectionBox": {
+        "center": [0, 0, 0],
+        "halfExtents": [0.5, 0.5, 0.5]
+    },
+    "diffuseMap": "../8866810/ball_diff.jpg",
+    "emissive": [0, 0, 0],
+    "normalMap": "../8866812/ball_norm.png",
+    "opacity": 1,
+    "shader": "phong",
+    "shininess": 5.65685,
+    "specularMap": "../8866811/ball_spec.png",
+    "mapping_format": "path"
+}
